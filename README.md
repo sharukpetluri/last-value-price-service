@@ -130,7 +130,7 @@ last-value-price-service/
  │           └── InMemoryLastValuePriceService.java
  │
  ├── src/test/java
- │   └── com/spglobal/price/
+ │   └── com/spglobal/price
  │       └── InMemoryLastValuePriceServiceTest.java
  │
  ├── pom.xml
@@ -153,18 +153,16 @@ Minimal logging is added to unit tests to demonstrate **inputs and outputs** dur
 
 ---
 
-## How to Run
+## How to Build & Run
 
-### Prerequisites
+Clone the repo:
+git clone https://github.com/sharukpetluri/last-value-price-service.git
 
-* Java 8+
-* Maven 3+
+Enter project directory:
+cd last-value-price-service
 
-### Run Tests
-
-```bash
+Build and run tests:
 mvn clean test
-```
 
 ---
 
