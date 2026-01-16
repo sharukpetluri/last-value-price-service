@@ -189,4 +189,4 @@ The following improvements are intentionally out of scope but could be added:
 
 ## Conclusion
 
-This project demonstrates a clean and robust approach to converting business requirements into a maintainable Java solution. The design emphasizes correctness, clarity, and testability while remaining intentionally simpl
+This solution illustrates a thoughtful translation of business requirements into a clean, well-structured Java design. By emphasizing clear state management, atomicity, and testability, the implementation reflects production-quality engineering principles while remaining intentionally lightweight and in-memory.
